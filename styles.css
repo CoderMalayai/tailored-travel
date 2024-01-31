@@ -1,0 +1,22 @@
+body {
+    background-color: #6c8c5b;
+    color:#0b1904;
+}
+
+h1#heading {
+    font-size: 45px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+#map {
+    height: 80vh;
+    width: 120vh;
+    background-color: green;
+    margin: 2%;
+}
